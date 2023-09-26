@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+html{
+    font-size: 62.5%;
+}
+
+h1{
+    display: flex;
+    font-family: 'PT Sans';
+    font-size: xx-large;
+    background-color: chocolate;
+    align-items: center;
+    padding: 20px;
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    font-size: 2rem;
+    font-family: roboto, sans-serif;
+    text-align: left;
+    margin: 20px
+
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    
+}
+
+ul{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: burlywood;
+}
+
+h2{
+    font-family: 'PT Sans', sans-serif;
+    margin: 10px;
+    font-size: 30px;
+    color: coral;
+    text-wrap: initial;
+}
+
+.main1{
+    display: inline-block;
+    text-align: center;
+    background-color: bisque;
+
+}
+
+.titlegaleria{
+    margin: 20px;
+}
+
+.sec1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    flex-direction: column;
+    align-content: center;
+}
+
+.textosec1{
+    display: inline-block;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.fotosec1{
+    font-size: 5px;
+    margin-inline: 15px;
+    
+}
+
+.galeriamain{
+    display: flex;
+    background-color: bisque;
+    flex-direction: column;
+    text-align: center;
+}
+
+.galeriaimg{
+    margin: 20px;
+}
+
+footer{
+    background-color: antiquewhite;
+}
+
+.foot1{
+    display: flex;
+    align-items: center;
+    font-size: 1.6rem;
+    font-family: roboto, sans-serif;
+    text-align: center;
+    
+}
+
+.ajn{
+    display: flex;
+    margin: 20px;
+    
+}
+
+h3{
+    display: inline-block;
+    margin: 20px;
+}
+
+.divpadrenum{
+    display: flex;
+    text-align: center;
+    color: black;
+    margin: 20px;
+}
+
+
+
+
+
+
