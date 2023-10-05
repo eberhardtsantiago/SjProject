@@ -10,45 +10,15 @@ html{
 
 h1{
     display: flex;
-    font-family: 'PT Sans';
-    font-size: xx-large;
-    background-color: chocolate;
-    align-items: center;
-    padding: 20px;
-    
 }
-
-nav{
-    display: flex;
-    align-items: center;
-    width: 50%;
-    font-size: 2rem;
-    font-family: roboto, sans-serif;
-    text-align: left;
-    margin: 20px
-
-}
-
-header{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: black;
-    
-}
-
-ul{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    list-style: none;
-    justify-content: space-between;
-    align-items: center;
-}
-
 a{
     text-decoration: none;
     color: burlywood;
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1%;
 }
 
 h2{
@@ -62,8 +32,10 @@ h2{
 .main1{
     display: inline-block;
     text-align: center;
-    background-color: bisque;
-
+    background-image: url(../assets/img/840e3adc01f5b86e9adbbe4c4cdd4146.jpg) ;
+    padding: 20%;
+    width: 100%;
+    margin: 0%;
 }
 
 .titlegaleria{
@@ -110,6 +82,7 @@ footer{
     font-size: 1.6rem;
     font-family: roboto, sans-serif;
     text-align: center;
+    background-color: #5E9FF2;
     
 }
 
