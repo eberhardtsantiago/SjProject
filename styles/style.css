@@ -19,6 +19,7 @@ header{
     display: flex;
     justify-content: space-evenly;
     padding: 1%;
+    background-color: bisque;
 }
 
 h2{
@@ -32,10 +33,11 @@ h2{
 .main1{
     display: inline-block;
     text-align: center;
-    background-image: url(../assets/img/840e3adc01f5b86e9adbbe4c4cdd4146.jpg) ;
-    padding: 20%;
+    background-image: url(../assets/img/img2.jpg) ;
+    padding: 14.4%;
     width: 100%;
     margin: 0%;
+    background-color: burlywood;
 }
 
 .titlegaleria{
@@ -70,26 +72,25 @@ h2{
 
 .galeriaimg{
     margin: 20px;
+    width: 20%;
+    display: flex;
 }
 
 footer{
-    background-color: antiquewhite;
-}
-
-.foot1{
     display: flex;
     align-items: center;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     font-family: roboto, sans-serif;
     text-align: center;
-    background-color: #5E9FF2;
+    background-color: darkkhaki;
     
 }
+
 
 .ajn{
     display: flex;
     margin: 20px;
-    
+    font-family: 'PT Sans', sans-serif;
 }
 
 h3{
@@ -103,6 +104,11 @@ h3{
     color: black;
     margin: 20px;
 }
+
+.navbar navbar-expand-lg bg-body-tertiary bg-info{
+    background-color: blue;
+}
+
 
 
 
