@@ -105,9 +105,16 @@ h3{
     margin: 20px;
 }
 
+.nav-barhead{
+    font-size: 17px;
+    font-family: 'PT Sans', sans-serif;
+    
+}
 
-
-
+.navfooter{
+    justify-content: center;
+    align-items: center;
+}
 
 
 
